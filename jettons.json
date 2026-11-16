@@ -18363,6 +18363,11 @@
   "symbol": "BABYSHARK"
  },
  {
+  "address": "0:a09e9330b7c314b9d1b280fb273689ebc13f77f128b1d9f6eea8300a715e427f",
+  "name": "Baby Terminator",
+  "symbol": "BABYTERMI"
+ },
+ {
   "address": "0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e",
   "name": "BIG BALLS BIRDS",
   "symbol": "BALLS"
@@ -20911,6 +20916,11 @@
   "address": "0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d",
   "name": "Utya",
   "symbol": "UTYA"
+ },
+ {
+  "address": "0:1c8124ed5789551d371861969f872ba50f981bea1873491c1c0d12aa094198c2",
+  "name": "UTYAN",
+  "symbol": "UTYAN"
  },
  {
   "address": "0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293",
